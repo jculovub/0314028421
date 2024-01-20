@@ -1,0 +1,48 @@
+Slide 1: Uvod
+Dobrodošli na današnju prezentaciju o sigurnosti na internetu. Fokusirat ćemo se na temu hakera i važnost zaštite podataka u digitalnom svijetu.
+
+Slide 2: Tko su hakeri?
+Hakeri su osobe koje koriste svoje tehničke vještine kako bi prodrli u računalne sustave s različitim ciljevima. Razlikujemo etičke hakere koji rade u svrhu zaštite, i neetičke hakere koji koriste svoje vještine za zlonamjerne radnje.
+
+Slide 3: Vrste Hakera
+Black Hat Hackeri: Zlonamjerni hakkeri koji krše zakone u cilju stjecanja koristi.
+White Hat Hackeri: Etički hakkeri koji surađuju s organizacijama kako bi poboljšali sigurnost.
+Grey Hat Hackeri: Kombinacija crnih i bijelih hattera, često neovisni, ali ne slijede čisto etički put.
+Slide 4: Kako Hakeri Napadaju?
+Phishing Napadi: Hakiranje putem lažnih e-pošti i web stranica.
+Malware: Zlonamjerni softver koji može oštetiti, pratiti ili krađu podataka.
+Društveno Inženjering: Manipulacija ljudima kako bi otkrili osjetljive informacije.
+Slide 5: Zašto su Podaci Važni?
+Podaci su ključni resurs, kako za pojedince tako i za tvrtke. Gubitak ili krađa podataka može imati ozbiljne posljedice, uključujući financijski gubitak, gubitak povjerenja i smanjenje ugleda.
+
+Slide 6: Kako Se Zaštititi od Hakera?
+Jaka Lozinka: Korištenje kompleksnih lozinki i redovita promjena.
+Ažuriranje Sustava: Redovito ažuriranje operativnih sustava i aplikacija.
+Antivirusni Softver: Korištenje pouzdanog antivirusnog softvera.
+Dvostupna Verifikacija: Dodatni sloj sigurnosti pri prijavi na račun.
+Slide 7: Kriptografija i Enkripcija
+Prikaz važnosti kriptografije u zaštiti podataka. Kako enkripcija pomaže u osiguravanju privatnosti i integriteta podataka.
+
+Slide 8: Sigurnost Podataka u Praksi
+Prikaz primjera organizacija koje su postale žrtve hakera te istraživanje kako su poduzete mjere zaštite kako bi spriječile buduće napade.
+
+Slide 9: Edukacija i Svijest
+Važnost obuke zaposlenika i korisnika o sigurnosnim praksama. Kroz edukaciju, možemo smanjiti rizik od napada.
+
+Slide 10: Zakonski Aspekti Sigurnosti Podataka
+Pregled zakona i regulativa koji štite podatke korisnika i organizacija. Zašto je pridržavanje zakona važno za očuvanje sigurnosti podataka.
+
+Slide 11: Incidenti Sigurnosti
+Kako reagirati na sigurnosne incidente. Planiranje odgovora na incidente i oporavak nakon napada.
+
+Slide 12: Internet of Things (IoT) i Sigurnost
+Rizici vezani uz povezane uređaje i kako održavati njihovu sigurnost.
+
+Slide 13: Sigurnost Mobilnih Aplikacija
+Razmatranje izazova i praksi u održavanju sigurnosti mobilnih aplikacija.
+
+Slide 14: Budućnost Sigurnosti na Internetu
+Trendovi i izazovi koji se očekuju u području sigurnosti na internetu. Kako se pripremiti za buduće prijetnje.
+
+Slide 15: Završna Riječ
+Sigurnost na internetu ključna je u današnjem digitalnom svijetu. Razumijevanje hakera i primjena odgovarajućih mjera zaštite od ključne su važnosti. Hvala vam na pažnji! Sada smo otvoreni za pitanja i diskusiju.
